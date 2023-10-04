@@ -16,13 +16,13 @@ TEL;TYPE=Home,VOICE:
 TEL;TYPE=sms:
 URL;TYPE=Messenger:
 TEL;TYPE=SIGNAL:
-EMAIL;TYPE=Email:kerin@habben.pe
+EMAIL;TYPE=Email:nathy@habben.pe
 URL;TYPE=Digital Business Card:
 
 
 URL;TYPE=Location:
 KEY:OPENPGP4FPR:
-UID:SMART vCARD-100786156
+UID:SMART vCARD-100571786
 URL;TYPE=Website:https://habben.pe/
 URL;TYPE=Calendar:
 URL;TYPE=WhatsApp:
